@@ -11,3 +11,8 @@ Chatting application built in React JS with the use of Socket.io and Node JS.
 ### In the Backend
 ##### there is a Node JS and Express JS Server.
 ##### and I also used Socket IO for getting ROOM ID and USER NAME.
+##### User can post the data from frontend and our backend server get that data and proceed to the next step.
+##### bcox of Socket IO it is easy to build this app.
+##### Once, Two user can comes in a same ROOM ID, then they can chat with each other.
+##### It has a completely mobile responsive design.
+
